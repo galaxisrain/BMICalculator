@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="reset">RESET</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="enter_weight_kg">Enter Weight(kg) :</string>
+    <string name="enter_height_m">Enter Height (m) :</string>
+    <string name="image" />
+</resources>
