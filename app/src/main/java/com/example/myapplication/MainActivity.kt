@@ -42,7 +42,8 @@ class MainActivity : AppCompatActivity() {
         reset_btn.setOnClickListener() {
             weight_in.text.clear()
             height_in.text.clear()
-            bmi_result.text=""
+            bmi_result.text=null
+            weight_in.requestFocus()
             image.setImageResource(R.drawable.empty)
 
 
